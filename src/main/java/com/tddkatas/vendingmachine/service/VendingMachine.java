@@ -1,2 +1,4 @@
-package com.tddkatas.vendingmachine.service;public class VendingMachine {
+package com.tddkatas.vendingmachine.service;
+
+public class VendingMachine {
 }
